@@ -7,3 +7,7 @@ def home(request):
 
 # def show(request):
 #     return render(request, 'base/login.html')
+
+# def signup(request):
+#     return render(request, 'base/signup.html')
+      
